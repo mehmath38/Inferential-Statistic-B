@@ -1,1 +1,1 @@
-# Inferential-Statistic-B
+# Inferential-Statistic-1B
